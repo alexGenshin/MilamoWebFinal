@@ -1,0 +1,47 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+.form-contact{
+    width: 400px;
+    height: 515px;
+    background: #b95835;
+    padding: 30px;
+    margin:auto;
+    margin-top:80px;
+    border-radius: 4px;
+    font-family: 'calibri';
+    color:white;
+}
+.controls{
+    width: 100%;
+    color: #202020;
+    padding:10px;
+    border-radius: 4px;
+    margin-bottom: 16px;
+    border: 1px solid #7a3e48;
+    font-family: 'calibri';
+    font-size: 18px;
+}
+.form-contact p{
+    height:40px;
+    text-align: center;
+    font-size: 18px;    
+}
+.form-contact a{
+color:white;
+text-decoration: none;
+}
+.p-6{
+    padding: 4rem 7rem;
+}
+.botons{
+    width: 100%;
+    background: #24303c;
+    border:none;
+    padding:12px;
+    color:white;
+    margin:16px 0;
+    font-size: 16px;
+}
